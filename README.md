@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Get in touch 📫
+
+- On [LinkedIn](linkedin.com/in/kaustubh-joshi-5432b4111)
+
 <!--
 **elpidaguy/elpidaguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
