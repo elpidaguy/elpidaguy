@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub metrics](https://metrics.lecoq.io/elpidaguy?isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
+![GitHub metrics](https://metrics.lecoq.io/elpidaguy?isocalendar=1&languages=1&followup=1&languages.ignored=html%2C%20css%2C%20Rich%20Text%20Format&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
