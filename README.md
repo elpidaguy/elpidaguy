@@ -1,10 +1,11 @@
+<!-- 
 ### Hi there 👋
 
 ### Get in touch 📫
 
 - On [LinkedIn](linkedin.com/in/kaustubh-joshi-5432b4111)
 
-<!--
+
 **elpidaguy/elpidaguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -18,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GitHub metrics](https://metrics.lecoq.io/elpidaguy?isocalendar=1&isocalendar.duration=full-year&config.timezone=Asia%2FCalcutta)
